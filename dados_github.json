@@ -1,7764 +1,892 @@
 {
-  "repository": "Spring-projects/spring-boot",
-  "data_collection_date": "2025-10-22T08:12:01.551388",
+  "repository": "TeamDman/SuperFactoryManager",
+  "data_collection_date": "2025-10-24T12:31:16.245047",
   "users": [
-    "0utplay",
-    "123Haynes",
-    "20210815",
-    "948497465",
-    "Abdulnaser97",
-    "AdnanHossain009",
-    "AlexMeyerPMU",
-    "Alugor",
-    "AntonHrbnts",
-    "AriadneCavilha",
-    "BaYcH",
-    "BenchmarkingBuffalo",
-    "CMcDonaldDPC",
-    "Cedric0915",
-    "Chanwon-Seo",
-    "Cyber-Oscar",
-    "DKARAGODIN",
-    "DanielLiu1123",
-    "Deepakgarg02",
-    "Devball406",
-    "Dhiraj706Sardar",
-    "DimaVilda",
-    "Dockerel",
-    "Dogacel",
-    "Dzmitry-yarik",
-    "EvaristeGalois11",
-    "FrozenPandaz",
-    "GaoSSR",
-    "Germainch",
-    "GuiF73",
-    "HStoyanov-augglobal",
-    "Heysunk",
-    "Himesh3113",
-    "HyunSangHan",
-    "ImDMahesh",
-    "JankiGadhiya",
-    "JavaDevaraj",
-    "JinhyeokFang",
-    "JoshuaChen",
-    "JunggiKim",
-    "KJ202",
-    "Kguswo",
-    "KmYgJn",
-    "Lakshmi0907",
-    "LeoTheDarvin",
-    "Leon116",
-    "Lublanski",
-    "MarcelEdmundFranke",
-    "Maths37",
-    "MelleD",
-    "MonkeyCode-AI",
-    "NeatGuyCoding",
-    "NoahArno",
-    "Oma3r3",
-    "PalatinatePotatoFarmer",
-    "Pankraz76",
-    "Paris-Zhou",
-    "Peksa",
-    "PhilosoCoder",
-    "PiyalAhmed",
-    "PosmitniyGrigoriy",
-    "Puppy4C",
-    "Rutujakolte03",
-    "SaaiAravindhRaja",
-    "Saaiiikrishna",
-    "Saljack",
-    "SeoHyeok2",
-    "SeongHyeokShin",
-    "SergiusSidorov",
-    "SimoneGiusso",
-    "SledgeHammer01",
-    "Student4everandever",
-    "SyedaAnshrahGillani",
-    "Tharanishwaran",
-    "ThomHurks",
-    "ThomasVitale",
-    "TigerZCoder",
-    "Tooa",
-    "Torres-09",
-    "Walti91",
-    "YongGoose",
-    "ZIRAKrezovic",
-    "aahlenst",
-    "aalsanie",
-    "abelsromero",
-    "academey",
-    "adase11",
-    "ahoehma",
-    "ahrytsiuk",
-    "alexFilichkin",
-    "alexisgayte",
-    "ali-jalaal",
-    "alihsan-tsdln",
-    "anbusampath",
-    "andres-orozco1",
-    "anmoljain-sap",
-    "anthonydahanne",
-    "apscot",
-    "artembilan",
-    "asashour",
-    "ashakirin",
-    "ashishkujoy",
-    "ashwinik307",
-    "bclozel",
-    "bcmedeiros",
-    "bekoenig",
-    "belyaev-andrey",
-    "benelog",
-    "benkelaar",
-    "bernie-schelberg-invicara",
-    "big-cir",
-    "bjmi",
-    "blancqua",
-    "boolivar",
-    "brandonfl",
-    "brsudheerbr",
-    "builtDifferentCoder",
-    "burl21",
-    "callanb",
-    "cdprete",
-    "cfredri4",
-    "chanbinme",
-    "chojuyeon94",
-    "ciscoo",
-    "codesimplicity",
-    "conneyjoo",
-    "cowtowncoder",
-    "cryptocat8",
-    "csbiy",
-    "cvsnehankita",
-    "cyrillzadra",
-    "dan-lind",
-    "danish-ali",
-    "datagitlies",
-    "davidlj95",
-    "dbgroupdlmu",
-    "deejay1",
-    "dependabot[bot]",
-    "devbulchandani",
-    "dhruv-15-03",
-    "dmiska25",
-    "dmitrysulman",
-    "dmytrodanilenkov",
-    "dnl50",
-    "dnyaneshagale",
-    "dobrosi",
-    "dodgex",
-    "doljae",
-    "donalmurtagh",
-    "doumdoum",
-    "dreamstar-enterprises",
-    "dschulten",
-    "dungdm93",
-    "ecnabogs",
-    "eddumelendez",
-    "er2",
-    "erichaagdev",
-    "etrandafir93",
-    "facewise",
-    "fbus",
-    "fhiyo",
-    "filipelautert",
-    "filiphr",
-    "finefuture",
-    "firatsivrikaya",
-    "fl4via",
-    "florgust",
-    "fmbenhassine",
-    "frekele",
-    "furmak331",
-    "ganjisriver",
-    "garretwilson",
-    "gbaso",
-    "gengdashuai",
-    "geniodraco901-ship-it",
-    "geniusYoo",
-    "genuss",
-    "gmuth",
-    "gokulraj0075",
-    "gonozalviii",
-    "gredwhite",
-    "guilhermelinosp",
-    "gulsaherdil",
-    "gvozdovvalera-droid",
-    "hakimrabet",
-    "hanouard",
-    "hdfg159",
-    "hdsfh",
-    "hgschmie",
-    "hgw12333",
-    "hiraSaifali12",
-    "hojooo",
-    "icas00",
-    "iggzq",
-    "ilia1243",
-    "ingmars1709",
-    "injae-kim",
-    "injectives",
-    "iparadiso",
-    "itssrihere",
-    "izeye",
-    "jac852",
-    "jagadeesh9892",
-    "jamesfredley",
-    "jan-olaveide",
-    "jbeaken",
-    "jearton",
-    "jesrammar",
-    "jetflo",
-    "jkoChen",
-    "johnnydacosta",
-    "johnowl",
-    "jonatan-ivanov",
-    "jorgegueyer",
-    "juergenzimmermann",
-    "julien92",
-    "juliojgd",
-    "kalwinskidawid",
-    "kamilkrzywanski",
-    "kanlee",
-    "karansahani78",
-    "kdgfox",
-    "krezovic",
-    "krnbr",
-    "kwondh5217",
-    "kzander91",
-    "kzittritsch",
-    "l-trotta",
-    "lengors",
-    "leshalv",
-    "lesiak",
-    "lhotari",
-    "likhith5697",
-    "lipiridi",
-    "liuyue-niann",
-    "livk-cloud",
-    "lourw",
-    "lxf136",
-    "lzysuqianqiu",
-    "magnus-larsson",
-    "maheshtechlearn",
-    "maikwodarz",
-    "makigumo",
-    "manderson23",
-    "manohar14325",
-    "maratkalibek",
-    "marcphilipp",
-    "maringuu",
-    "markt-asf",
-    "martin-tarjanyi",
-    "mateusz-nalepa",
-    "matthew-js-porter",
-    "maxxedev",
-    "maziyarbahramian",
-    "mbazos",
-    "mdeinum",
-    "meistermeier",
-    "metters",
-    "mhalbritter",
-    "michael-simons",
-    "michaldo",
-    "minesunny",
-    "minjund",
-    "mipo256",
-    "mkhaled2",
-    "mmoayyed",
-    "moritz1895",
-    "mosinnik",
-    "mostwantedroy",
-    "move-hoon",
-    "mp911de",
-    "mpalourdio",
-    "mtarsel",
-    "musaddique91",
-    "n1ckl0sk0rtge",
-    "natl-set",
-    "naveenprasanth2",
-    "nenros",
-    "neveler",
-    "nevenc",
-    "ngocnhan-tran1996",
-    "nicolasgarea",
-    "nosan",
-    "nstdio",
-    "nuharaf",
-    "nuuron",
-    "ohjuyoungg",
-    "olamy",
-    "onacit",
-    "oneby-wang",
-    "onobc",
-    "patpatpat123",
-    "paulux84",
-    "pdolezal",
-    "philwebb",
-    "pirgeo",
-    "pmelagiri213",
-    "ppkarwasz",
-    "prishedko",
-    "quaff",
-    "quocdai-ngo",
-    "rainboyan",
-    "ramesh-nair-dev",
-    "ranand19",
-    "reduan96",
-    "reynoldsliu",
-    "rhm002",
-    "rkudryashov",
-    "rmorrise",
-    "robertmakrytski",
-    "ronodhirSoumik",
-    "rootyakov",
-    "rpjicond",
-    "rstoyanchev",
-    "rvansa",
-    "rwinch",
-    "ryanjbaxter",
-    "rzwitserloot",
-    "salaboy",
-    "schmidti159",
-    "scordio",
-    "scottfrederick",
-    "sdeleuze",
-    "shahabkondri",
-    "shakuzen",
-    "shchae04",
-    "shekharAggarwal",
-    "shishunfu",
-    "shitikanth",
-    "shivammm21",
-    "siripuramGanesh",
-    "siva-sai-udaygiri",
-    "smartandhandsome",
-    "snicoll",
-    "snowykte0426",
-    "sonjih00n",
-    "soulee-dev",
-    "spencergibb",
-    "spring-projects-issues",
-    "springframeworkguru",
-    "srisaigi",
-    "stevenschlansker",
-    "straurob",
-    "surya170",
-    "tanruian",
-    "tanuj-22",
-    "tc-zhang-ik",
-    "tdinev",
-    "tharun694",
-    "thecooldrop",
-    "therepanic",
-    "tjog",
-    "tomerr90",
-    "tommyk-gears",
-    "tranquocbaodev",
-    "typat",
-    "var4609",
-    "varkart",
-    "violetagg",
-    "vipi-n",
-    "vmeunier",
-    "vpavic",
-    "vpelikh",
-    "vulinh64",
-    "vy",
-    "wanna280",
-    "wenzhuo4657",
-    "westmc",
-    "wilkinsona",
-    "wimdeblauwe",
-    "wonyongg",
-    "xDeyan",
-    "xchopin",
-    "xiaolongzuo",
-    "xiongemi",
-    "xuye544054528-lab",
-    "xyraclius",
-    "yanamalanagaraju",
-    "yonatang",
-    "youngledo",
-    "yybmion",
-    "zahra7",
-    "zakaria-shahen",
-    "zand026",
-    "zbw1231"
+    "AvidSpline",
+    "BeiDou114514",
+    "BlueAgent",
+    "Bugster",
+    "Burkino",
+    "CrazyCodeUK",
+    "Gn3po4g",
+    "IWABOnce",
+    "Jmpp2909",
+    "KyokoTomato",
+    "Linguardium",
+    "MCdyc",
+    "MHanHanBing",
+    "Manwe03",
+    "MarcoRauscher",
+    "MildFlames",
+    "MindCaged",
+    "NagrandHero",
+    "Newflesh0",
+    "PapaZ810",
+    "PrincessStelllar",
+    "QiChenSn",
+    "Qonabe",
+    "Raywell",
+    "Rehpicul",
+    "Rrett",
+    "TeamDman",
+    "TheVoos33",
+    "Titop54",
+    "UpcraftLP",
+    "Vonr",
+    "Xetaxheb",
+    "XredoFin",
+    "ZHAY10086",
+    "Zexylz",
+    "bookerthegeek",
+    "bypgomes",
+    "cmoates",
+    "fossabot",
+    "gjmhmm8",
+    "hirrao",
+    "jzburda",
+    "kevinrpb",
+    "lennyservant",
+    "md5i",
+    "mudgw2",
+    "nk34player",
+    "schlosserleo",
+    "shoucandanghehe",
+    "wrincewind",
+    "zarillion"
   ],
   "interactions": {
     "comentario_em_issues": [
       {
         "weight": 2,
-        "from": "philwebb",
-        "to": "ngocnhan-tran1996",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "mipo256",
+        "from": "schlosserleo",
+        "to": "shoucandanghehe",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
+        "from": "CrazyCodeUK",
+        "to": "shoucandanghehe",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
+        "from": "XredoFin",
+        "to": "TeamDman",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "mhalbritter",
-        "to": "mosinnik",
+        "from": "wrincewind",
+        "to": "TeamDman",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "mosinnik",
+        "from": "XredoFin",
+        "to": "TeamDman",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "vpavic",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "onobc",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "vpavic",
-        "to": "onobc",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "mmoayyed",
+        "from": "TeamDman",
+        "to": "Jmpp2909",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "mmoayyed",
+        "from": "TeamDman",
+        "to": "Jmpp2909",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "maheshtechlearn",
+        "from": "TeamDman",
+        "to": "Jmpp2909",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "maheshtechlearn",
+        "from": "TeamDman",
+        "to": "Titop54",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "maheshtechlearn",
+        "from": "TeamDman",
+        "to": "TheVoos33",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "kzander91",
+        "from": "TeamDman",
+        "to": "lennyservant",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "Lublanski",
+        "from": "TeamDman",
+        "to": "lennyservant",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "Lublanski",
+        "from": "BeiDou114514",
+        "to": "MHanHanBing",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "Lublanski",
+        "from": "TeamDman",
+        "to": "MHanHanBing",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "bclozel",
-        "to": "zakaria-shahen",
+        "from": "TeamDman",
+        "to": "hirrao",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "bclozel",
-        "to": "zakaria-shahen",
+        "from": "TeamDman",
+        "to": "hirrao",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "bclozel",
-        "to": "aalsanie",
+        "from": "wrincewind",
+        "to": "TeamDman",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "philwebb",
-        "to": "likhith5697",
+        "from": "TeamDman",
+        "to": "TheVoos33",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "dnl50",
+        "from": "TeamDman",
+        "to": "TheVoos33",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "nstdio",
+        "from": "TeamDman",
+        "to": "MindCaged",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "philwebb",
-        "to": "bclozel",
+        "from": "TeamDman",
+        "to": "MindCaged",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "likhith5697",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "firatsivrikaya",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "kamilkrzywanski",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "kamilkrzywanski",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "garretwilson",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "garretwilson",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "garretwilson",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "likhith5697",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "eddumelendez",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "andres-orozco1",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "HStoyanov-augglobal",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "likhith5697",
-        "to": "HStoyanov-augglobal",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "HStoyanov-augglobal",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "izeye",
-        "to": "onacit",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "asashour",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "asashour",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "yanamalanagaraju",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "hojooo",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "hojooo",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "marcphilipp",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "marcphilipp",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "marcphilipp",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "marcphilipp",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "livk-cloud",
-        "to": "948497465",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "948497465",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "injectives",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "injectives",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "injectives",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "gonozalviii",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hgw12333",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "violetagg",
-        "to": "hgw12333",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "violetagg",
-        "to": "hgw12333",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hgw12333",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "violetagg",
-        "to": "hgw12333",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hgw12333",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "michaldo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "JankiGadhiya",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "lzysuqianqiu",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "markt-asf",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "markt-asf",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "chojuyeon94",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "michaldo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nstdio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nstdio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dschulten",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "rzwitserloot",
-        "to": "dschulten",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "dschulten",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "xDeyan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ImDMahesh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "SimoneGiusso",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "SimoneGiusso",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "devbulchandani",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "sdeleuze",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "maratkalibek",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "maratkalibek",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "devbulchandani",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "kzander91",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "kzander91",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "kzander91",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "ilia1243",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ilia1243",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "jonatan-ivanov",
-        "to": "vpelikh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "jonatan-ivanov",
-        "to": "vpelikh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "lxf136",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "gmuth",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "gmuth",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ppkarwasz",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "ppkarwasz",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "patpatpat123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "patpatpat123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "hojooo",
-        "to": "vpelikh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vpelikh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "tranquocbaodev",
-        "to": "kzander91",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "kzander91",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "alexisgayte",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "Lakshmi0907",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "Lakshmi0907",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "Lakshmi0907",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "michaldo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "michaldo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wenzhuo4657",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "NeatGuyCoding",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "tomerr90",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "liuyue-niann",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "DanielLiu1123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "DanielLiu1123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "DanielLiu1123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "DanielLiu1123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "vpavic",
-        "to": "DanielLiu1123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "DanielLiu1123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "DanielLiu1123",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "kzander91",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "scottfrederick",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "wanna280",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "codesimplicity",
-        "to": "wanna280",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "vpavic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "krezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "filipelautert",
-        "to": "krezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "krezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "filipelautert",
-        "to": "krezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "michael-simons",
-        "to": "meistermeier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "michael-simons",
-        "to": "meistermeier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "injectives",
-        "to": "meistermeier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Deepakgarg02",
-        "to": "Saljack",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Saljack",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "magnus-larsson",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "musaddique91",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Pankraz76",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "belyaev-andrey",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "belyaev-andrey",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "belyaev-andrey",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "belyaev-andrey",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "belyaev-andrey",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "belyaev-andrey",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Pankraz76",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "0utplay",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "0utplay",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "westmc",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "rmorrise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "jonatan-ivanov",
-        "to": "cfredri4",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "jonatan-ivanov",
-        "to": "cfredri4",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "cfredri4",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "jbeaken",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "minjund",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "xiaolongzuo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "xuye544054528-lab",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "MonkeyCode-AI",
-        "to": "GaoSSR",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "MonkeyCode-AI",
-        "to": "GaoSSR",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "fhiyo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dodgex",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "belyaev-andrey",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "PalatinatePotatoFarmer",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "donalmurtagh",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "donalmurtagh",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "jesrammar",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mpalourdio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "anmoljain-sap",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "gengdashuai",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "gengdashuai",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "gengdashuai",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "cowtowncoder",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "cowtowncoder",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "finefuture",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Himesh3113",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "anthonydahanne",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "tharun694",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "rkudryashov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "rkudryashov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "scottfrederick",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "icas00",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "NoahArno",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "xyraclius",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "fbus",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "fbus",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "fbus",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "rstoyanchev",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "vulinh64",
-        "to": "Alugor",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Alugor",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "krezovic",
-        "to": "Alugor",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Alugor",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "magnus-larsson",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "magnus-larsson",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "magnus-larsson",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ramesh-nair-dev",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "xyraclius",
-        "to": "SergiusSidorov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "SergiusSidorov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "SergiusSidorov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "dmitrysulman",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "dmitrysulman",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "SaaiAravindhRaja",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "ThomHurks",
-        "to": "datagitlies",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "DKARAGODIN",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "DKARAGODIN",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "MarcelEdmundFranke",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "springframeworkguru",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "springframeworkguru",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ahoehma",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "donalmurtagh",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "123Haynes",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "vipi-n",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "dnyaneshagale",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "dnyaneshagale",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "brandonfl",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "apscot",
-        "to": "brandonfl",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "brandonfl",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Student4everandever",
-        "to": "brandonfl",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "brandonfl",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "rootyakov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "rootyakov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "scordio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "SeoHyeok2",
-        "to": "ahrytsiuk",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "ahrytsiuk",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Oma3r3",
-        "to": "ahrytsiuk",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ahrytsiuk",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "SeoHyeok2",
-        "to": "ahrytsiuk",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "ThomasVitale",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "ThomasVitale",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "ThomasVitale",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "ThomasVitale",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "ThomasVitale",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "ashwinik307",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "ashwinik307",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mtarsel",
-        "to": "ashwinik307",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "ashwinik307",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Walti91",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "varkart",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "codesimplicity",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "codesimplicity",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "adase11",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "kzittritsch",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "builtDifferentCoder",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "builtDifferentCoder",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "builtDifferentCoder",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "mateusz-nalepa",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "mateusz-nalepa",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "cyrillzadra",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bcmedeiros",
-        "to": "bclozel",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "pdolezal",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "SeoHyeok2",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dan-lind",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dan-lind",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "krezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "ZIRAKrezovic",
-        "to": "krezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "krezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hanouard",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hanouard",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "matthew-js-porter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "matthew-js-porter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "neveler",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "neveler",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "neveler",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "youngledo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ZIRAKrezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ZIRAKrezovic",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Tharanishwaran",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "soulee-dev",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Heysunk",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "Heysunk",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "Heysunk",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snowykte0426",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "snowykte0426",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "builtDifferentCoder",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "builtDifferentCoder",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "jonatan-ivanov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "jonatan-ivanov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "moritz1895",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "moritz1895",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "cryptocat8",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "builtDifferentCoder",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "straurob",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mp911de",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "HyunSangHan",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "SeongHyeokShin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "kalwinskidawid",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "kalwinskidawid",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "quaff",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "izeye",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "alexFilichkin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "maziyarbahramian",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "hiraSaifali12",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dhruv-15-03",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "paulux84",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "krnbr",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ashakirin",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vmeunier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vmeunier",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "conneyjoo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dhruv-15-03",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "HyunSangHan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "maziyarbahramian",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "maziyarbahramian",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "maziyarbahramian",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "maziyarbahramian",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Dhiraj706Sardar",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "jagadeesh9892",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "maziyarbahramian",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "wimdeblauwe",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "CMcDonaldDPC",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "gulsaherdil",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "Chanwon-Seo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Chanwon-Seo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "Chanwon-Seo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Chanwon-Seo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "Chanwon-Seo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "dhruv-15-03",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "dhruv-15-03",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dhruv-15-03",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "michaldo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "michaldo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dreamstar-enterprises",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "dreamstar-enterprises",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "dreamstar-enterprises",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "dreamstar-enterprises",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "Chanwon-Seo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dungdm93",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mp911de",
-        "to": "dungdm93",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mp911de",
-        "to": "dungdm93",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dungdm93",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "dungdm93",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "quaff",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "mbazos",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mbazos",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "johnowl",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "johnowl",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "builtDifferentCoder",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Chanwon-Seo",
-        "to": "manderson23",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Chanwon-Seo",
-        "to": "manderson23",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "manderson23",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "dependabot[bot]",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dependabot[bot]",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "PosmitniyGrigoriy",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "etrandafir93",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Cyber-Oscar",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Cyber-Oscar",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Cyber-Oscar",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "facewise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "facewise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mp911de",
-        "to": "facewise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Torres-09",
-        "to": "rwinch",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "rwinch",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Torres-09",
-        "to": "rwinch",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "rwinch",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "builtDifferentCoder",
-        "to": "rwinch",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "rwinch",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Torres-09",
-        "to": "rwinch",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "ohjuyoungg",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "alihsan-tsdln",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "reynoldsliu",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dhruv-15-03",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "dhruv-15-03",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "leshalv",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "leshalv",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "leshalv",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "shitikanth",
-        "to": "leshalv",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "leshalv",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mostwantedroy",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "mostwantedroy",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "injae-kim",
-        "to": "mostwantedroy",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "mostwantedroy",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "injae-kim",
-        "to": "mostwantedroy",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mostwantedroy",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "makigumo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "makigumo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "makigumo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doljae",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doljae",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doljae",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "tharun694",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "cvsnehankita",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "AdnanHossain009",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Dzmitry-yarik",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Dzmitry-yarik",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Dzmitry-yarik",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "robertmakrytski",
-        "to": "Dzmitry-yarik",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "robertmakrytski",
-        "to": "Dzmitry-yarik",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Dzmitry-yarik",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "robertmakrytski",
-        "to": "Dzmitry-yarik",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "Dzmitry-yarik",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "oneby-wang",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "bclozel",
-        "to": "ingmars1709",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "ingmars1709",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "ingmars1709",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hgschmie",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hgschmie",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hgschmie",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "hgschmie",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hgschmie",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "hgschmie",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "stevenschlansker",
-        "to": "hgschmie",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "maxxedev",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "tjog",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "tjog",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "fl4via",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "philwebb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nicolasgarea",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "JavaDevaraj",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "juergenzimmermann",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "juergenzimmermann",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "juergenzimmermann",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "HyunSangHan",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "hgschmie",
-        "to": "stevenschlansker",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "stevenschlansker",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "stevenschlansker",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "stevenschlansker",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "YongGoose",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "tommyk-gears",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "hdsfh",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Lublanski",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "rpjicond",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Lublanski",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Lublanski",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "Lublanski",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "mhalbritter",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "martin-tarjanyi",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "martin-tarjanyi",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mp911de",
-        "to": "wilkinsona",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Pankraz76",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "scordio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wonyongg",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wonyongg",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Tooa",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "Tooa",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Tooa",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Tooa",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Tooa",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "itssrihere",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "GuiF73",
-        "to": "itssrihere",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "itssrihere",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "GuiF73",
-        "to": "itssrihere",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "itssrihere",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "itssrihere",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Maths37",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "Maths37",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "Maths37",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "Maths37",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Maths37",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Maths37",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Maths37",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "ThomasVitale",
-        "to": "jonatan-ivanov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "jonatan-ivanov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "jonatan-ivanov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "jonatan-ivanov",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "shakuzen",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wonyongg",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "injae-kim",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "iparadiso",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "iparadiso",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "iparadiso",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "bjmi",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "BenchmarkingBuffalo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "ThomasVitale",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "manohar14325",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "minesunny",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "jkoChen",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "gredwhite",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mdeinum",
-        "to": "gredwhite",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "gredwhite",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "salaboy",
-        "to": "ThomasVitale",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "ThomasVitale",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "deejay1",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "deejay1",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "snicoll",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "scordio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "scordio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "scordio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "scordio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "scordio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "scordio",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nuharaf",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "nuharaf",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "spring-projects-issues",
-        "to": "nuharaf",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "callanb",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "minesunny",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "minesunny",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "ganjisriver",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "hojooo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "hojooo",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "Pankraz76",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "Pankraz76",
-        "type": "comentario_issue"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "Pankraz76",
+        "from": "Gn3po4g",
+        "to": "QiChenSn",
         "type": "comentario_issue"
       }
     ],
     "fechamento_de_issues": [
       {
-        "from": "philwebb",
-        "to": "ngocnhan-tran1996",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "quaff",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "dependabot[bot]",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "mosinnik",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "onobc",
+        "from": "TeamDman",
+        "to": "ZHAY10086",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "kzander91",
+        "from": "TeamDman",
+        "to": "Jmpp2909",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "Lublanski",
+        "from": "TeamDman",
+        "to": "Titop54",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "bclozel",
-        "to": "zakaria-shahen",
+        "from": "TeamDman",
+        "to": "TheVoos33",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "Pankraz76",
+        "from": "TeamDman",
+        "to": "PrincessStelllar",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "bclozel",
-        "to": "aalsanie",
+        "from": "TeamDman",
+        "to": "lennyservant",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "likhith5697",
+        "from": "TeamDman",
+        "to": "MHanHanBing",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "dnl50",
+        "from": "TeamDman",
+        "to": "PrincessStelllar",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "bclozel",
-        "to": "nstdio",
+        "from": "TeamDman",
+        "to": "hirrao",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "rhm002",
+        "from": "TeamDman",
+        "to": "fossabot",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "bclozel",
+        "from": "TeamDman",
+        "to": "Titop54",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "snicoll",
+        "from": "TeamDman",
+        "to": "TheVoos33",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "firatsivrikaya",
+        "from": "TeamDman",
+        "to": "MindCaged",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "philwebb",
+        "from": "TeamDman",
+        "to": "QiChenSn",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "kamilkrzywanski",
+        "from": "TeamDman",
+        "to": "Titop54",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "vpavic",
+        "from": "TeamDman",
+        "to": "Titop54",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "likhith5697",
+        "from": "TeamDman",
+        "to": "MCdyc",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "eddumelendez",
+        "from": "TeamDman",
+        "to": "Linguardium",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "wilkinsona",
+        "from": "TeamDman",
+        "to": "Jmpp2909",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "wilkinsona",
+        "from": "TeamDman",
+        "to": "Raywell",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "onacit",
+        "from": "TeamDman",
+        "to": "IWABOnce",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "bclozel",
-        "to": "asashour",
+        "from": "TeamDman",
+        "to": "TheVoos33",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "izeye",
+        "from": "TeamDman",
+        "to": "NagrandHero",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "yanamalanagaraju",
+        "from": "TeamDman",
+        "to": "Newflesh0",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "philwebb",
+        "from": "TeamDman",
+        "to": "gjmhmm8",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "snicoll",
+        "from": "TeamDman",
+        "to": "jzburda",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "marcphilipp",
+        "from": "TeamDman",
+        "to": "Bugster",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "bclozel",
-        "to": "948497465",
+        "from": "TeamDman",
+        "to": "Xetaxheb",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "mhalbritter",
-        "to": "jonatan-ivanov",
+        "from": "TeamDman",
+        "to": "Xetaxheb",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "injectives",
+        "from": "TeamDman",
+        "to": "bookerthegeek",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "gonozalviii",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "wilkinsona",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "michaldo",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "philwebb",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "philwebb",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "nosan",
+        "from": "TeamDman",
+        "to": "MildFlames",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "chojuyeon94",
+        "from": "TeamDman",
+        "to": "Burkino",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "nstdio",
+        "from": "TeamDman",
+        "to": "Burkino",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "dschulten",
+        "from": "TeamDman",
+        "to": "Burkino",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "philwebb",
-        "to": "xDeyan",
+        "from": "TeamDman",
+        "to": "Rrett",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "snicoll",
+        "from": "TeamDman",
+        "to": "KyokoTomato",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "wilkinsona",
-        "to": "ImDMahesh",
+        "from": "TeamDman",
+        "to": "Burkino",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "SimoneGiusso",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "sdeleuze",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "vpavic",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "devbulchandani",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "maratkalibek",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "kzander91",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "ilia1243",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "JinhyeokFang",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "lxf136",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "gmuth",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "burl21",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "quocdai-ngo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "patpatpat123",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "kzander91",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "alexisgayte",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "spring-projects-issues",
-        "to": "Lakshmi0907",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "michaldo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wenzhuo4657",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "NeatGuyCoding",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "tomerr90",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "liuyue-niann",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "DanielLiu1123",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "kzander91",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "Abdulnaser97",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "scottfrederick",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "wanna280",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "vpavic",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "krezovic",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "donalmurtagh",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "mhalbritter",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Saljack",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "philwebb",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "magnus-larsson",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "musaddique91",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Pankraz76",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "belyaev-andrey",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Pankraz76",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "0utplay",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "westmc",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "rmorrise",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "er2",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "cfredri4",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "jbeaken",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "minjund",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "xiaolongzuo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "GaoSSR",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "fhiyo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "dodgex",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "philwebb",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "PalatinatePotatoFarmer",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "mpalourdio",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "anmoljain-sap",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "spring-projects-issues",
-        "to": "gengdashuai",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "finefuture",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Himesh3113",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "anthonydahanne",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "donalmurtagh",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "Himesh3113",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "rkudryashov",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "scottfrederick",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "icas00",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "NoahArno",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "xyraclius",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "fbus",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "rstoyanchev",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Alugor",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "magnus-larsson",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "ramesh-nair-dev",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "SergiusSidorov",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dmitrysulman",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "SaaiAravindhRaja",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "MarcelEdmundFranke",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "springframeworkguru",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "donalmurtagh",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "ahoehma",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "donalmurtagh",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "123Haynes",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "vipi-n",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dnyaneshagale",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "siva-sai-udaygiri",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dnyaneshagale",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "brandonfl",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "rootyakov",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "nstdio",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "mhalbritter",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "ashwinik307",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Walti91",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "mhalbritter",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "philwebb",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "codesimplicity",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "adase11",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "kzittritsch",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "mhalbritter",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "dmiska25",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "mateusz-nalepa",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "cyrillzadra",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "gokulraj0075",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "dan-lind",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "krezovic",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "hanouard",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "neveler",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "youngledo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "philwebb",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "ZIRAKrezovic",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "soulee-dev",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "spring-projects-issues",
-        "to": "Heysunk",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "snowykte0426",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "jonatan-ivanov",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "moritz1895",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "cryptocat8",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "straurob",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "SeongHyeokShin",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "geniodraco901-ship-it",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "maziyarbahramian",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "izeye",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "alexFilichkin",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "philwebb",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "dhruv-15-03",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "ashakirin",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "conneyjoo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "dhruv-15-03",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "HyunSangHan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "maziyarbahramian",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "wimdeblauwe",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "CMcDonaldDPC",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "gulsaherdil",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "Chanwon-Seo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "dhruv-15-03",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "michaldo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "dreamstar-enterprises",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "Chanwon-Seo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dungdm93",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "mbazos",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "johnowl",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "manderson23",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "PosmitniyGrigoriy",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "etrandafir93",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Cyber-Oscar",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "ohjuyoungg",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "alihsan-tsdln",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "reynoldsliu",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "dhruv-15-03",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "leshalv",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "mostwantedroy",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "doljae",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "AdnanHossain009",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Dzmitry-yarik",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "oneby-wang",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "spring-projects-issues",
-        "to": "ingmars1709",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "maxxedev",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "tjog",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "bclozel",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "philwebb",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "nicolasgarea",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "JavaDevaraj",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "juergenzimmermann",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "stevenschlansker",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "YongGoose",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "tommyk-gears",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "mhalbritter",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "martin-tarjanyi",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Pankraz76",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "scordio",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wonyongg",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "itssrihere",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "snicoll",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "Maths37",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "jonatan-ivanov",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "gbaso",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "shakuzen",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "iparadiso",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "bjmi",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "BenchmarkingBuffalo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "ThomasVitale",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "dependabot[bot]",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "minesunny",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "jkoChen",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "gredwhite",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "deejay1",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "deejay1",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "spring-projects-issues",
-        "to": "nuharaf",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "mhalbritter",
-        "to": "minesunny",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "ganjisriver",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "hojooo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "Pankraz76",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "Pankraz76",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "quaff",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "SledgeHammer01",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "maikwodarz",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "deejay1",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "schmidti159",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "philwebb",
-        "to": "julien92",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "brsudheerbr",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "PhilosoCoder",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "oneby-wang",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Germainch",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "Leon116",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "jan-olaveide",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "ciscoo",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "gvozdovvalera-droid",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "magnus-larsson",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "jorgegueyer",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "snicoll",
-        "to": "wilkinsona",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "jac852",
-        "type": "fechamento_de_issue"
-      },
-      {
-        "from": "wilkinsona",
-        "to": "jac852",
+        "from": "TeamDman",
+        "to": "bypgomes",
         "type": "fechamento_de_issue"
       }
     ],
     "comentario_pull_request": [
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "mipo256",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "mipo256",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "michael-simons",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "michael-simons",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "michael-simons",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "injectives",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "snicoll",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "injectives",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "mkhaled2",
-        "to": "hojooo",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "hojooo",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "hojooo",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "ramesh-nair-dev",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "fbus",
-        "to": "ramesh-nair-dev",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "dmiska25",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "DKARAGODIN",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "maziyarbahramian",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Chanwon-Seo",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Chanwon-Seo",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "Chanwon-Seo",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Chanwon-Seo",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "Chanwon-Seo",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "Chanwon-Seo",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wonyongg",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "wonyongg",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "ThomasVitale",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "ThomasVitale",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "ThomasVitale",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "ThomasVitale",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "ThomasVitale",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "philwebb",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "zahra7",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "zakaria-shahen",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "academey",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "academey",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "academey",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "izeye",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "izeye",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "izeye",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "kzander91",
-        "to": "Kguswo",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "ppkarwasz",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "ppkarwasz",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "ppkarwasz",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "ronodhirSoumik",
-        "to": "ppkarwasz",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "ppkarwasz",
-        "to": "vy",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "vy",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "PiyalAhmed",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "move-hoon",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "move-hoon",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Torres-09",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Torres-09",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Torres-09",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "Torres-09",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "yybmion",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "geniusYoo",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "dmytrodanilenkov",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "dmytrodanilenkov",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "dmytrodanilenkov",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "dmytrodanilenkov",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "kwondh5217",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "kwondh5217",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "kwondh5217",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "kwondh5217",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "jonatan-ivanov",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "jonatan-ivanov",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "jonatan-ivanov",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ngocnhan-tran1996",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "filiphr",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "KmYgJn",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "KmYgJn",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "zbw1231",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "zbw1231",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "zbw1231",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "zbw1231",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "zbw1231",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "zbw1231",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "zbw1231",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ecnabogs",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ecnabogs",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "ecnabogs",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "thecooldrop",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "izeye",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "izeye",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "izeye",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "xchopin",
-        "to": "izeye",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "quaff",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "nosan",
-        "to": "quaff",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "boolivar",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "wilkinsona",
-        "to": "nosan",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "comentario em pull request"
       }
     ],
     "revisoes_pull_request": [
       {
         "weight": 4,
-        "from": "wilkinsona",
-        "to": "mipo256",
+        "from": "TeamDman",
+        "to": "PrincessStelllar",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "wilkinsona",
-        "to": "mipo256",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "danish-ali",
-        "to": "nstdio",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "danish-ali",
-        "to": "vpelikh",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "danish-ali",
-        "to": "nosan",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "danish-ali",
-        "to": "ppkarwasz",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "snicoll",
-        "to": "meistermeier",
+        "from": "TeamDman",
+        "to": "Vonr",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "michael-simons",
-        "to": "meistermeier",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "michael-simons",
-        "to": "meistermeier",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "michael-simons",
-        "to": "meistermeier",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "injectives",
-        "to": "meistermeier",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "meistermeier",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "injectives",
-        "to": "meistermeier",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mkhaled2",
-        "to": "hojooo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "hojooo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "hojooo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "ramesh-nair-dev",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "fbus",
-        "to": "ramesh-nair-dev",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "dmiska25",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "dmiska25",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "dmiska25",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "dmiska25",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "DKARAGODIN",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "siva-sai-udaygiri",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "maziyarbahramian",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "Chanwon-Seo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "Chanwon-Seo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "Chanwon-Seo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "Chanwon-Seo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "Chanwon-Seo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "Chanwon-Seo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "facewise",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "wonyongg",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "ThomasVitale",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "philwebb",
-        "to": "eddumelendez",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "artembilan",
-        "to": "eddumelendez",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "zahra7",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "zakaria-shahen",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "academey",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "izeye",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "izeye",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "izeye",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "kzander91",
-        "to": "Kguswo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "ppkarwasz",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "ronodhirSoumik",
-        "to": "ppkarwasz",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "ppkarwasz",
-        "to": "vy",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "vy",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "PiyalAhmed",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "PiyalAhmed",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "move-hoon",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "move-hoon",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "fmbenhassine",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "doumdoum",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "Torres-09",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "yybmion",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "geniusYoo",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "dmytrodanilenkov",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "dmytrodanilenkov",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "dmytrodanilenkov",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "kwondh5217",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "kwondh5217",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "kwondh5217",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "kwondh5217",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "kwondh5217",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "jonatan-ivanov",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "jonatan-ivanov",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "jonatan-ivanov",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "ngocnhan-tran1996",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "filiphr",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "filiphr",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "KmYgJn",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "KmYgJn",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "zbw1231",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "zbw1231",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "zbw1231",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "ecnabogs",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "ecnabogs",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "ecnabogs",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "thecooldrop",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "izeye",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "izeye",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "izeye",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "LeoTheDarvin",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "izeye",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "xchopin",
-        "to": "izeye",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "snicoll",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "quaff",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "nosan",
-        "to": "quaff",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "mhalbritter",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "Saaiiikrishna",
-        "to": "ngocnhan-tran1996",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "quaff",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "eddumelendez",
-        "to": "thecooldrop",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "boolivar",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "nosan",
-        "type": "revisao de pull request"
-      },
-      {
-        "weight": 4,
-        "from": "wilkinsona",
-        "to": "nosan",
+        "from": "TeamDman",
+        "to": "kevinrpb",
         "type": "revisao de pull request"
       }
     ],
-    "merge_pull_request": []
+    "merge_pull_request": [
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "ZHAY10086",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "ZHAY10086",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Titop54",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "PrincessStelllar",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "lennyservant",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "MHanHanBing",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "PrincessStelllar",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Titop54",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "QiChenSn",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Titop54",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Titop54",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Jmpp2909",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Vonr",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Vonr",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Vonr",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Vonr",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Vonr",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Burkino",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Burkino",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Burkino",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Burkino",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Titop54",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Titop54",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Titop54",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "Titop54",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "kevinrpb",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "md5i",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "BlueAgent",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "BlueAgent",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "UpcraftLP",
+        "type": "merge_pull_request"
+      },
+      {
+        "weight": 5,
+        "from": "TeamDman",
+        "to": "MarcoRauscher",
+        "type": "merge_pull_request"
+      }
+    ]
   }
 }
