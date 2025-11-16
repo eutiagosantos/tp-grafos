@@ -4,6 +4,7 @@ from tkinter import ttk, messagebox
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 import networkx as nx
+from GraphReportWindow import GraphReportWindow
 
 
 class GitHubGraphGUI:
@@ -62,7 +63,10 @@ class GitHubGraphGUI:
         btn1_rel = ttk.Button(
             linha1,
             text="Ver relatório",
-            command=lambda: self.abrir_modal_relatorio("Comentários em Issues")
+            command=lambda: self.abrir_modal_relatorio(
+                "Comentários em Issues",
+                self.interacoes_comentarios
+            )
         )
         btn1_rel.pack(side=tk.LEFT, padx=5)
 
@@ -83,7 +87,10 @@ class GitHubGraphGUI:
         btn2_rel = ttk.Button(
             linha2,
             text="Ver relatório",
-            command=lambda: self.abrir_modal_relatorio("Fechamento de Issues")
+            command=lambda: self.abrir_modal_relatorio(
+                "Fechamento de Issues",
+                self.interacoes_fechamento
+            )
         )
         btn2_rel.pack(side=tk.LEFT, padx=5)
 
@@ -104,7 +111,10 @@ class GitHubGraphGUI:
         btn3_rel = ttk.Button(
             linha3,
             text="Ver relatório",
-            command=lambda: self.abrir_modal_relatorio("Pull Requests")
+            command=lambda: self.abrir_modal_relatorio(
+                "Pull Requests",
+                self.interacoes_pr
+            )
         )
         btn3_rel.pack(side=tk.LEFT, padx=5)
 
@@ -118,16 +128,25 @@ class GitHubGraphGUI:
 
     # ---------- modal de relatório ----------
 
-    def abrir_modal_relatorio(self, nome_grafo):
-        messagebox.showinfo(
-            "Relatório em andamento",
-            f"O relatório para o grafo de {nome_grafo} ainda está em andamento."
-        )
+    def abrir_modal_relatorio(self, nome_grafo, interacoes):
+        if not interacoes:
+            messagebox.showinfo(
+                "Sem dados",
+                f"Não há dados disponíveis para o grafo de {nome_grafo}."
+            )
+            return
+
+        # monta o grafo NetworkX a partir das interações
+        G = self.build_graph(self.usuarios, interacoes)
+
+        titulo = f"Relatório – {nome_grafo} — {self.repo}"
+        GraphReportWindow(self.root, titulo, G)
+
 
     # ---------- janela separada para o grafo ----------
 
     def _abrir_janela_grafo(self, interacoes, titulo, cor, salvar_png=False):
-            
+
         if not interacoes:
             messagebox.showinfo(
                 "Sem dados",

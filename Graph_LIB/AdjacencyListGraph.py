@@ -1,6 +1,6 @@
 
 
-from desenvolvimento_ferramenta.AbstractGraph import AbstractGraph
+from AbstractGraph import AbstractGraph
 
 
 class AdjacencyListGraph(AbstractGraph):

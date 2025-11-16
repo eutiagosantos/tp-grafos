@@ -1,4 +1,4 @@
-from desenvolvimento_ferramenta import AbstractGraph
+from AbstractGraph import AbstractGraph
 
 
 class AdjacencyMatrixGraph(AbstractGraph):
