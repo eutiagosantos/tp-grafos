@@ -36,7 +36,7 @@ def build_graph(usuarios, interacoes):
 
 if __name__ == "__main__":
     # quando rodar main.py, abre a interface gráfica
-    from interface import GitHubGraphGUI
+    from Interface.interface import GitHubGraphGUI
     import tkinter as tk
 
     data = load_data("dados_github.json")

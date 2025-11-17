@@ -1,10 +1,12 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
+from Interface.GraphReportWindow import GraphReportWindow
+from Interface.GlobalReportWindow import GlobalReportWindow  # <<< adiciona isso
 
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 import networkx as nx
-from GraphReportWindow import GraphReportWindow
+from Interface.GraphReportWindow import GraphReportWindow
 
 
 class GitHubGraphGUI:
@@ -125,6 +127,15 @@ class GitHubGraphGUI:
             command=self.mostrar_totais_arestas
         )
         btn_totais.pack(side=tk.TOP, anchor="w", pady=(8, 0))
+
+        # Botão de relatório geral (médias das métricas nos 3 grafos)
+        btn_relatorio_geral = ttk.Button(
+            main_frame,
+            text="Relatório geral de métricas",
+            command=self.abrir_relatorio_geral
+        )
+        btn_relatorio_geral.pack(side=tk.TOP, anchor="w", pady=(4, 0))
+
 
     # ---------- modal de relatório ----------
 
@@ -248,6 +259,31 @@ class GitHubGraphGUI:
             f" - Pull Requests         : {total_pr}"
         )
         print("\n" + texto + "\n")
+    def abrir_relatorio_geral(self):
+        # monta os grafos de cada tipo (se tiver dados)
+        grafos = []
+
+        if self.interacoes_comentarios:
+            G_com = self.build_graph(self.usuarios, self.interacoes_comentarios)
+            grafos.append(("Comentários em Issues", G_com))
+
+        if self.interacoes_fechamento:
+            G_fech = self.build_graph(self.usuarios, self.interacoes_fechamento)
+            grafos.append(("Fechamento de Issues", G_fech))
+
+        if self.interacoes_pr:
+            G_pr = self.build_graph(self.usuarios, self.interacoes_pr)
+            grafos.append(("Pull Requests", G_pr))
+
+        if not grafos:
+            messagebox.showinfo(
+                "Sem dados",
+                "Não há nenhum grafo com dados para gerar o relatório geral."
+            )
+            return
+
+        titulo = f"Relatório Geral — {self.repo}"
+        GlobalReportWindow(self.root, titulo, grafos)
 
 
 if __name__ == "__main__":

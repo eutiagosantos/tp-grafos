@@ -1,8 +1,9 @@
 import tkinter as tk
 from tkinter import ttk
-
 import networkx as nx
 from Graph_LIB.Metrics import CentralityMetrics  # importa sua classe de métricas
+from typing import Dict, Any, List, Tuple
+
 
 
 class GraphReportWindow:
@@ -95,6 +96,7 @@ class GraphReportWindow:
     # ----------------- lógica das métricas -----------------
 
     def _popular_metricas(self):
+        print(self)
         if self.G.number_of_nodes() == 0:
             return
 
@@ -126,3 +128,5 @@ class GraphReportWindow:
                     f"{pagerank.get(node, 0.0):.4f}",
                 ),
             )
+
+

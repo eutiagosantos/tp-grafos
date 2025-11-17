@@ -11,7 +11,7 @@ class CentralityMetrics:
       1) Grau (degree centrality)
       2) Betweenness centrality
       3) Closeness centrality
-      4) PageRank / Eigenvector centrality
+      4) PageRank (implementado manualmente, sem SciPy)
     """
 
     def __init__(
@@ -58,7 +58,7 @@ class CentralityMetrics:
         Centralidade de grau.
 
         :param normalized:
-            - True: usa degree_centrality normalizado do NetworkX
+            - True: usa degree_centrality normalizado
             - False: usa apenas o grau (ponderado) bruto
         :param mode:
             - 'total': grau total (in + out em dígrafos)
@@ -67,15 +67,23 @@ class CentralityMetrics:
         """
         G = self.G
 
-        # Para grafo não direcionado, usa direto o NetworkX
+        # Grafo não direcionado
         if not isinstance(G, nx.DiGraph):
             if normalized:
-                values = nx.degree_centrality(G)
+                # degree_centrality: deg(v) / (n - 1)
+                n = len(G)
+                if n <= 1:
+                    values = {node: 0.0 for node in G.nodes()}
+                else:
+                    values = {}
+                    for node in G.nodes():
+                        deg = G.degree(node, weight="weight")
+                        values[node] = deg / (n - 1)
             else:
                 values = dict(G.degree(weight="weight"))
             return self._translate_ids(values)
 
-        # Para dígrafo, tratamos in/out/total
+        # Dígrafo: trata in/out/total
         if mode == "in":
             raw = dict(G.in_degree(weight="weight"))
         elif mode == "out":
@@ -105,6 +113,9 @@ class CentralityMetrics:
         """
         Centralidade de intermediação (betweenness).
 
+        Aqui usamos a implementação do NetworkX, que é puramente
+        baseada em algoritmos de grafos (sem SciPy/pandas/etc).
+
         :param normalized: se True, normaliza os valores.
         :param k: se definido, usa amostragem de k vértices para acelerar (grafos grandes).
         """
@@ -130,7 +141,7 @@ class CentralityMetrics:
         values = nx.closeness_centrality(self.G, distance=distance_attr)
         return self._translate_ids(values)
 
-    # ---------- 4) PageRank / Eigenvector centrality ----------
+    # ---------- 4) PageRank (implementado manualmente) ----------
 
     def pagerank(
         self,
@@ -139,32 +150,70 @@ class CentralityMetrics:
         tol: float = 1.0e-06
     ) -> Dict[str, float]:
         """
-        PageRank clássico, ponderando arestas pelo atributo 'weight'.
-        """
-        values = nx.pagerank(
-            self.G,
-            alpha=alpha,
-            max_iter=max_iter,
-            tol=tol,
-            weight="weight"
-        )
-        return self._translate_ids(values)
+        PageRank clássico, implementado manualmente (sem SciPy).
 
-    def eigenvector_centrality(
-        self,
-        max_iter: int = 1000,
-        tol: float = 1.0e-06
-    ) -> Dict[str, float]:
+        - Usa iteração de potência.
+        - Pondera arestas pelo atributo 'weight'.
+        - Trata vértices pendurados (sem saída).
         """
-        Centralidade de autovetor (eigenvector centrality).
-        """
-        values = nx.eigenvector_centrality(
-            self.G,
-            max_iter=max_iter,
-            tol=tol,
-            weight="weight"
-        )
-        return self._translate_ids(values)
+        G = self.G
+
+        if G.number_of_nodes() == 0:
+            return {}
+
+        nodes = list(G.nodes())
+        n = len(nodes)
+
+        # inicializa ranks iguais
+        rank: Dict[Any, float] = {v: 1.0 / n for v in nodes}
+
+        # grau de saída ponderado (ou grau em grafo não direcionado)
+        if isinstance(G, nx.DiGraph):
+            out_strength = {
+                v: G.out_degree(v, weight="weight") for v in nodes
+            }
+        else:
+            out_strength = {
+                v: G.degree(v, weight="weight") for v in nodes
+            }
+
+        for _ in range(max_iter):
+            new_rank: Dict[Any, float] = {}
+
+            # soma dos ranks dos vértices sem saída
+            dangling_sum = sum(
+                rank[v] for v in nodes if out_strength.get(v, 0.0) == 0.0
+            )
+
+            # parte base + contribuição dos vértices pendurados
+            for v in nodes:
+                new_rank[v] = (1.0 - alpha) / n
+                new_rank[v] += alpha * dangling_sum / n
+
+            # redistribui rank pelos vizinhos
+            for u in nodes:
+                out_s = out_strength.get(u, 0.0)
+                if out_s == 0.0:
+                    continue
+
+                if isinstance(G, nx.DiGraph):
+                    vizinhos = G.successors(u)
+                else:
+                    vizinhos = G.neighbors(u)
+
+                for v in vizinhos:
+                    w = G[u][v].get("weight", 1.0)
+                    new_rank[v] += alpha * rank[u] * (w / out_s)
+
+            # critério de parada
+            diff = sum(abs(new_rank[v] - rank[v]) for v in nodes)
+            rank = new_rank
+
+            if diff < tol:
+                break
+
+        # traduz ids se tiver mapeamento
+        return self._translate_ids(rank)
 
     # ---------- pacote completo ----------
 
@@ -181,5 +230,65 @@ class CentralityMetrics:
             "betweenness": self.betweenness_centrality(),
             "closeness": self.closeness_centrality(),
             "pagerank": self.pagerank()
-            # "eigenvector": self.eigenvector_centrality()  # se quiser incluir também
         }
+
+def resumo_metricas_grafo(G: nx.Graph) -> Dict[str, Dict[str, float]]:
+    """
+    Calcula, para um grafo, a soma e a média de cada métrica
+    (degree, betweenness, closeness, pagerank).
+    """
+    cm = CentralityMetrics(G)
+    all_metrics = cm.compute_all()
+
+    resumo: Dict[str, Dict[str, float]] = {}
+
+    for nome_metrica, valores in all_metrics.items():
+        # valores: dict[label -> valor_float]
+        n = len(valores)
+        if n == 0:
+            resumo[nome_metrica] = {"soma": 0.0, "media": 0.0, "n": 0}
+            continue
+
+        soma = sum(valores.values())
+        media = soma / n
+        resumo[nome_metrica] = {
+            "soma": soma,
+            "media": media,
+            "n": n
+        }
+
+    return resumo
+
+
+def resumo_geral_grafos(
+    grafos: List[Tuple[str, nx.Graph]]
+) -> Tuple[List[Tuple[str, Dict[str, Dict[str, float]]]], Dict[str, float]]:
+    """
+    :param grafos: lista de tuplas (nome_grafo, grafo)
+    :return:
+        - lista com (nome_grafo, resumo_metricas_grafo)
+        - dicionário com média geral (ponderada) entre grafos para cada métrica
+    """
+    individuais: List[Tuple[str, Dict[str, Dict[str, float]]]] = []
+    for nome, G in grafos:
+        resumo = resumo_metricas_grafo(G)
+        individuais.append((nome, resumo))
+
+    metricas = ["degree", "betweenness", "closeness", "pagerank"]
+    media_geral: Dict[str, float] = {}
+
+    for met in metricas:
+        soma_total = 0.0
+        n_total = 0
+
+        for _, resumo in individuais:
+            if met in resumo:
+                soma_total += resumo[met]["soma"]
+                n_total += resumo[met]["n"]
+
+        if n_total > 0:
+            media_geral[met] = soma_total / n_total
+        else:
+            media_geral[met] = 0.0
+
+    return individuais, media_geral
