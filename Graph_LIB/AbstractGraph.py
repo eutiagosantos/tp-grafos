@@ -109,9 +109,6 @@ class AbstractGraph:
         """
         return to_node in self.edges.get(from_node, [])
 
-    # --------- FUNÇÕES NOVAS DA API OBRIGATÓRIA ---------
-
-    # boolean isSucessor(int u, int v);
     def is_sucessor(self, u, v):
         """Indica se `v` é sucessor imediato de `u`.
 
@@ -119,7 +116,6 @@ class AbstractGraph:
         """
         return self.has_edge(u, v)
 
-    # boolean isPredessor(int u, int v);
     def is_predessor(self, u, v):
         """Indica se `v` é predecessor imediato de `u`.
 
@@ -127,7 +123,6 @@ class AbstractGraph:
         """
         return self.has_edge(v, u)
 
-    # boolean isDivergent(int u1, int v1, int u2, int v2);
     def is_divergent(self, u1, v1, u2, v2):
         """Verifica se duas arestas são divergentes.
 
@@ -141,7 +136,6 @@ class AbstractGraph:
             and self.has_edge(u2, v2)
         )
 
-    # boolean isConvergent(int u1, int v1, int u2, int v2);
     def is_convergent(self, u1, v1, u2, v2):
         """Verifica se duas arestas são convergentes.
 
@@ -155,7 +149,6 @@ class AbstractGraph:
             and self.has_edge(u2, v2)
         )
 
-    # boolean isIncident(int u, int v, int x);
     def is_incident(self, u, v, x):
         """Indica se o vértice `x` é incidente à aresta `(u, v)`.
 
@@ -164,7 +157,6 @@ class AbstractGraph:
         """
         return self.has_edge(u, v) and (x == u or x == v)
 
-    # int getVertexInDegree(int u);
     def get_vertex_in_degree(self, u):
         """Retorna o grau de entrada (in-degree) do vértice `u`.
 
@@ -177,11 +169,9 @@ class AbstractGraph:
             raise ValueError("Vertex not found in the graph.")
         count = 0
         for src, neighbors in self.edges.items():
-            # conta inclusive múltiplas arestas se tiver
             count += neighbors.count(u)
         return count
 
-    # int getVertexOutDegree(int u);
     def get_vertex_out_degree(self, u):
         """Retorna o grau de saída (out-degree) do vértice `u`.
 
@@ -192,7 +182,6 @@ class AbstractGraph:
             raise ValueError("Vertex not found in the graph.")
         return len(self.edges.get(u, []))
 
-    # void setVertexWeight(int v, double w);
     def set_vertex_weight(self, v, w):
         """Atribui um peso `w` ao vértice `v`.
 
@@ -203,7 +192,6 @@ class AbstractGraph:
             raise ValueError("Vertex not found in the graph.")
         self.peso_vertice[v] = w
 
-    # double getVertexWeight(int v);
     def get_vertex_weight(self, v):
         """Retorna o peso associado ao vértice `v`.
 
@@ -217,7 +205,6 @@ class AbstractGraph:
             raise ValueError("Vertex not found in the graph.")
         return self.peso_vertice.get(v)
 
-    # void setEdgeWeight(int u, int v, double w);
     def set_edge_weight(self, u, v, w):
         """Define peso `w` para a aresta `(u, v)`.
 
@@ -228,7 +215,6 @@ class AbstractGraph:
             raise ValueError("Edge not found in the graph.")
         self.edge_weights[(u, v)] = w
 
-    # double getEdgeWeight(int u, int v);
     def get_edge_weight(self, u, v):
         """Retorna o peso da aresta `(u, v)`.
 
@@ -242,7 +228,6 @@ class AbstractGraph:
             raise ValueError("Edge not found in the graph.")
         return self.edge_weights.get((u, v))
 
-    # boolean isConnected();
     def is_connected(self):
         """Verifica se o grafo é fracamente conectado.
 
@@ -253,7 +238,6 @@ class AbstractGraph:
             True se o grafo estiver conectado (por convenção, grafo
             vazio é considerado conectado).
         """
-        # conectado (fracamente): ignorando direção, todo mundo alcança todo mundo
         if not self.vertices:
             return True  # por convenção
 
@@ -267,31 +251,26 @@ class AbstractGraph:
                 continue
             visited.add(v)
 
-            # vizinhos de saída
             for w in self.edges.get(v, []):
                 if w not in visited:
                     stack.append(w)
 
-            # vizinhos de entrada (tratando como não-direcionado)
             for u in self.vertices:
                 if v in self.edges.get(u, []) and u not in visited:
                     stack.append(u)
 
         return len(visited) == len(self.vertices)
 
-    # boolean isEmptyGraph();
     def is_empty_graph(self):
         """Indica se o grafo está vazio (sem vértices)."""
         return self.get_vertex_count() == 0
 
-    # boolean isCompleteGraph();
     def is_complete_graph(self):
         """Verifica se o grafo é completo (direcionado, sem laços).
 
         Define-se completo quando, para todo par distinto (u, v),
         existe a aresta `u -> v`.
         """
-        # completo direcionado sem laços: para todo par (u != v), existe aresta u -> v
         n = self.get_vertex_count()
         if n <= 1:
             return True
