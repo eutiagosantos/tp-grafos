@@ -292,3 +292,90 @@ def resumo_geral_grafos(
             media_geral[met] = 0.0
 
     return individuais, media_geral
+
+class CommunityMetrics:
+    """
+    Métricas de Comunidade:
+      1) Detecção de comunidades (modularidade)
+      2) Bridging ties (vértices que conectam comunidades diferentes)
+    """
+
+    def __init__(self, graph: nx.Graph):
+        self.G = graph
+
+    # -------------------------
+    # 1) Comunidades + modularidade
+    # -------------------------
+    def detectar_comunidades(self):
+        """
+        Detecta comunidades usando o algoritmo de modularidade (greedy)
+        """
+        if self.G.number_of_nodes() == 0:
+            return {
+                "comunidades": [],
+                "modularidade": 0.0,
+                "num_comunidades": 0,
+                "tamanho_comunidades": []
+            }
+
+        from networkx.algorithms.community import greedy_modularity_communities, modularity
+
+        comunidades = list(greedy_modularity_communities(self.G))
+        modularidade = modularity(self.G, comunidades)
+
+        tamanhos = [len(c) for c in comunidades]
+
+        # Converte frozensets para listas normais
+        comunidades_out = [list(c) for c in comunidades]
+
+        return {
+            "comunidades": comunidades_out,
+            "modularidade": modularidade,
+            "num_comunidades": len(comunidades),
+            "tamanho_comunidades": tamanhos
+        }
+
+    # -------------------------
+    # 2) Bridging Ties
+    # -------------------------
+    def bridging_ties(self):
+        """
+        Mede quem são os vértices que atuam como "pontes" entre comunidades:
+          - Conta quantas arestas do nó conectam membros de outras comunidades
+        """
+        dados_com = self.detectar_comunidades()
+        comunidades = dados_com["comunidades"]
+
+        if not comunidades:
+            return {}
+
+        # cria map node -> comunidade
+        node_to_com = {}
+        for idx, com in enumerate(comunidades):
+            for v in com:
+                node_to_com[v] = idx
+
+        bridging_score = {v: 0 for v in self.G.nodes()}
+
+        for u, v in self.G.edges():
+            cu = node_to_com[u]
+            cv = node_to_com[v]
+
+            # se conectam comunidades diferentes → pontes
+            if cu != cv:
+                bridging_score[u] += 1
+                bridging_score[v] += 1
+
+        return bridging_score
+
+    # -------------------------
+    # Pacote completo
+    # -------------------------
+    def compute_all(self):
+        """
+        Retorna todas as métricas de comunidade em um único dicionário.
+        """
+        return {
+            "comunidades": self.detectar_comunidades(),
+            "bridging_ties": self.bridging_ties()
+        }

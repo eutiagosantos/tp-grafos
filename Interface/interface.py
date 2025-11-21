@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 import networkx as nx
 from Interface.GraphReportWindow import GraphReportWindow
+from Metrics.CommunityMetricsWindow import CommunityMetricsWindow
 
 
 class GitHubGraphGUI:
@@ -135,6 +136,14 @@ class GitHubGraphGUI:
             command=self.abrir_relatorio_geral
         )
         btn_relatorio_geral.pack(side=tk.TOP, anchor="w", pady=(4, 0))
+        
+        # Botão de métricas de comunidade  <<---- AGORA COM A INDENTAÇÃO CERTA
+        btn_metricas_comunidade = ttk.Button(
+            main_frame,
+            text="Métricas de Comunidade",
+            command=self.abrir_metricas_comunidade
+        )
+        btn_metricas_comunidade.pack(side=tk.TOP, anchor="w", pady=(4, 0))
 
 
     # ---------- modal de relatório ----------
@@ -284,6 +293,21 @@ class GitHubGraphGUI:
 
         titulo = f"Relatório Geral — {self.repo}"
         GlobalReportWindow(self.root, titulo, grafos)
+
+    # ---------- MÉTRICAS DE COMUNIDADE ----------
+    def abrir_metricas_comunidade(self):
+        todas_interacoes = (
+            self.interacoes_comentarios +
+            self.interacoes_fechamento +
+            self.interacoes_pr
+        )
+
+        if not todas_interacoes:
+            messagebox.showinfo("Sem dados", "Não há interações suficientes para métricas de comunidade.")
+            return
+
+        G = self.build_graph(self.usuarios, todas_interacoes)
+        CommunityMetricsWindow(self.root, f"Métricas de Comunidade — {self.repo}", G)
 
 
 if __name__ == "__main__":
