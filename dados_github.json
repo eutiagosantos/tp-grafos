@@ -1,890 +1,1636 @@
 {
-  "repository": "TeamDman/SuperFactoryManager",
-  "data_collection_date": "2025-10-24T12:31:16.245047",
+  "repository": "fastapi/fastapi",
+  "data_collection_date": "2025-11-21T13:29:12.489909",
   "users": [
-    "AvidSpline",
-    "BeiDou114514",
-    "BlueAgent",
-    "Bugster",
-    "Burkino",
-    "CrazyCodeUK",
-    "Gn3po4g",
-    "IWABOnce",
-    "Jmpp2909",
-    "KyokoTomato",
-    "Linguardium",
-    "MCdyc",
-    "MHanHanBing",
-    "Manwe03",
-    "MarcoRauscher",
-    "MildFlames",
-    "MindCaged",
-    "NagrandHero",
-    "Newflesh0",
-    "PapaZ810",
-    "PrincessStelllar",
-    "QiChenSn",
-    "Qonabe",
-    "Raywell",
-    "Rehpicul",
-    "Rrett",
-    "TeamDman",
-    "TheVoos33",
-    "Titop54",
-    "UpcraftLP",
-    "Vonr",
-    "Xetaxheb",
-    "XredoFin",
-    "ZHAY10086",
-    "Zexylz",
-    "bookerthegeek",
-    "bypgomes",
-    "cmoates",
-    "fossabot",
-    "gjmhmm8",
-    "hirrao",
-    "jzburda",
-    "kevinrpb",
-    "lennyservant",
-    "md5i",
-    "mudgw2",
-    "nk34player",
-    "schlosserleo",
-    "shoucandanghehe",
-    "wrincewind",
-    "zarillion"
+    "Abdulnaser97",
+    "AkashS0510",
+    "ChaitanyaSai-Meka",
+    "Copilot",
+    "DanielYang59",
+    "Danstiv",
+    "Dawaman43",
+    "Esteban3010",
+    "GeoSegun",
+    "Hesham-73",
+    "JP-Ellis",
+    "JavierSanchezCastro",
+    "KarelRuzicka",
+    "Kiran-Gowda-H-A",
+    "Kludex",
+    "KrzysztofCzapla",
+    "MikeiLL",
+    "Nicered",
+    "Pentusha",
+    "Peopl3s",
+    "PeytonNowlin",
+    "Priyanshjain10",
+    "Raghu0703",
+    "SMdipu10",
+    "SaisakthiM",
+    "T-leke",
+    "YuriiMotov",
+    "ZadenYip",
+    "abhishekbiswas772",
+    "adamobrien-dev",
+    "alejsdev",
+    "amirroox",
+    "amitmoralwar",
+    "andrii-kysylevskyi",
+    "arun-geek",
+    "ashb",
+    "b14cknc0d3",
+    "bokshitsky",
+    "brunofoggiatto",
+    "ceb10n",
+    "clement-zentz",
+    "clytaemnestra",
+    "coderliu",
+    "dependabot[bot]",
+    "diegoromerodev",
+    "dolfinus",
+    "eltoder",
+    "ewen-lorimer",
+    "farzbood",
+    "fermanza",
+    "github-actions[bot]",
+    "hemanth-thirthahalli",
+    "indayush",
+    "itssimon",
+    "ivikasavnish",
+    "jamisiveshkumar",
+    "krishnamurthy-srinivasan",
+    "luzzodev",
+    "mahdighadiriii",
+    "mahimairaja",
+    "musicinmybrain",
+    "nilslindemann",
+    "niveshpadamata1218",
+    "njsbhu",
+    "pierrejeambrun",
+    "potiuk",
+    "praffq",
+    "pre-commit-ci[bot]",
+    "robertoberto",
+    "roozbehR",
+    "santoshvandari",
+    "sauravvenkat",
+    "savannahostrowski",
+    "simone-trubian",
+    "sneakers-the-rat",
+    "steelefit",
+    "sushilk123",
+    "svlandeg",
+    "tImIhAcK",
+    "themojtabajaveed",
+    "thisissreenu1-boop",
+    "tiangolo",
+    "wu-clan",
+    "xdewx",
+    "zadevhub",
+    "zmievsa",
+    "zmievsa-semasoftware"
   ],
   "interactions": {
     "comentario_em_issues": [
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "github-actions[bot]",
+        "to": "dependabot[bot]",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "schlosserleo",
-        "to": "shoucandanghehe",
+        "from": "github-actions[bot]",
+        "to": "PeytonNowlin",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "CrazyCodeUK",
-        "to": "shoucandanghehe",
+        "from": "github-actions[bot]",
+        "to": "tiangolo",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "XredoFin",
-        "to": "TeamDman",
+        "from": "njsbhu",
+        "to": "tiangolo",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "wrincewind",
-        "to": "TeamDman",
+        "from": "njsbhu",
+        "to": "tiangolo",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "XredoFin",
-        "to": "TeamDman",
+        "from": "github-actions[bot]",
+        "to": "Esteban3010",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "github-actions[bot]",
+        "to": "nilslindemann",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "github-actions[bot]",
+        "to": "nilslindemann",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "github-actions[bot]",
+        "to": "nilslindemann",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Jmpp2909",
+        "from": "github-actions[bot]",
+        "to": "tiangolo",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Jmpp2909",
+        "from": "fermanza",
+        "to": "tiangolo",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Jmpp2909",
+        "from": "fermanza",
+        "to": "tiangolo",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "github-actions[bot]",
+        "to": "Dawaman43",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "TheVoos33",
+        "from": "YuriiMotov",
+        "to": "Dawaman43",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "lennyservant",
+        "from": "themojtabajaveed",
+        "to": "Dawaman43",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "lennyservant",
+        "from": "YuriiMotov",
+        "to": "Kiran-Gowda-H-A",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "BeiDou114514",
-        "to": "MHanHanBing",
+        "from": "github-actions[bot]",
+        "to": "andrii-kysylevskyi",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "MHanHanBing",
+        "from": "farzbood",
+        "to": "tiangolo",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "hirrao",
+        "from": "njsbhu",
+        "to": "tiangolo",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "hirrao",
+        "from": "YuriiMotov",
+        "to": "amitmoralwar",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "wrincewind",
-        "to": "TeamDman",
+        "from": "YuriiMotov",
+        "to": "amitmoralwar",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "TheVoos33",
+        "from": "github-actions[bot]",
+        "to": "amitmoralwar",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "TheVoos33",
+        "from": "YuriiMotov",
+        "to": "amitmoralwar",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "MindCaged",
+        "from": "github-actions[bot]",
+        "to": "hemanth-thirthahalli",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "MindCaged",
+        "from": "YuriiMotov",
+        "to": "hemanth-thirthahalli",
         "type": "comentario_issue"
       },
       {
         "weight": 2,
-        "from": "Gn3po4g",
-        "to": "QiChenSn",
+        "from": "SaisakthiM",
+        "to": "hemanth-thirthahalli",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "amitmoralwar",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "njsbhu",
+        "to": "amitmoralwar",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "Kludex",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "tiangolo",
+        "to": "Kludex",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "coderliu",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "coderliu",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "clement-zentz",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "clement-zentz",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "ewen-lorimer",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "eltoder",
+        "to": "sauravvenkat",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "KrzysztofCzapla",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "brunofoggiatto",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "ChaitanyaSai-Meka",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "zmievsa",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "zmievsa-semasoftware",
+        "to": "zmievsa",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "zmievsa",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "tiangolo",
+        "to": "zmievsa",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "tiangolo",
+        "to": "zmievsa",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "wu-clan",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "nilslindemann",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "jamisiveshkumar",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "Raghu0703",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "Raghu0703",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "Raghu0703",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "ivikasavnish",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "ivikasavnish",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "luzzodev",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "luzzodev",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "eltoder",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "svlandeg",
+        "to": "hemanth-thirthahalli",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "hemanth-thirthahalli",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "niveshpadamata1218",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "niveshpadamata1218",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "sneakers-the-rat",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "sneakers-the-rat",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "musicinmybrain",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "tiangolo",
+        "to": "tImIhAcK",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "dependabot[bot]",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "dependabot[bot]",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "potiuk",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "Danstiv",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "ashb",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "potiuk",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "pierrejeambrun",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "clytaemnestra",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "zmievsa",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "Nicered",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "Nicered",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "mahdighadiriii",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "mahdighadiriii",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "tiangolo",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "roozbehR",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "SMdipu10",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "SMdipu10",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "steelefit",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "steelefit",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "GeoSegun",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "alejsdev",
+        "to": "GeoSegun",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "Pentusha",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "simone-trubian",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "dependabot[bot]",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "dependabot[bot]",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "amirroox",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "YuriiMotov",
+        "to": "amirroox",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "github-actions[bot]",
+        "to": "YuriiMotov",
+        "type": "comentario_issue"
+      },
+      {
+        "weight": 2,
+        "from": "mahimairaja",
+        "to": "YuriiMotov",
         "type": "comentario_issue"
       }
     ],
     "fechamento_de_issues": [
       {
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "svlandeg",
+        "to": "nilslindemann",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "YuriiMotov",
+        "to": "Kiran-Gowda-H-A",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "YuriiMotov",
+        "to": "amitmoralwar",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "svlandeg",
+        "to": "Kludex",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Jmpp2909",
+        "from": "tiangolo",
+        "to": "zmievsa",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "YuriiMotov",
+        "to": "nilslindemann",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "TheVoos33",
+        "from": "YuriiMotov",
+        "to": "Raghu0703",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "PrincessStelllar",
+        "from": "svlandeg",
+        "to": "ivikasavnish",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "lennyservant",
+        "from": "tiangolo",
+        "to": "luzzodev",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "MHanHanBing",
+        "from": "YuriiMotov",
+        "to": "niveshpadamata1218",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "PrincessStelllar",
+        "from": "svlandeg",
+        "to": "pre-commit-ci[bot]",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "hirrao",
+        "from": "svlandeg",
+        "to": "musicinmybrain",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "fossabot",
+        "from": "tiangolo",
+        "to": "tImIhAcK",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "svlandeg",
+        "to": "tiangolo",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "TheVoos33",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "MindCaged",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "QiChenSn",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "svlandeg",
+        "to": "tiangolo",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "svlandeg",
+        "to": "tiangolo",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "MCdyc",
+        "from": "YuriiMotov",
+        "to": "tiangolo",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Linguardium",
+        "from": "tiangolo",
+        "to": "YuriiMotov",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Jmpp2909",
+        "from": "YuriiMotov",
+        "to": "clytaemnestra",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Raywell",
+        "from": "tiangolo",
+        "to": "YuriiMotov",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "IWABOnce",
+        "from": "YuriiMotov",
+        "to": "Nicered",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "TheVoos33",
+        "from": "YuriiMotov",
+        "to": "roozbehR",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "NagrandHero",
+        "from": "YuriiMotov",
+        "to": "Copilot",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Newflesh0",
+        "from": "YuriiMotov",
+        "to": "SMdipu10",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "gjmhmm8",
+        "from": "YuriiMotov",
+        "to": "steelefit",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "jzburda",
+        "from": "alejsdev",
+        "to": "GeoSegun",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Bugster",
+        "from": "svlandeg",
+        "to": "pre-commit-ci[bot]",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Xetaxheb",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Xetaxheb",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "bookerthegeek",
+        "from": "tiangolo",
+        "to": "YuriiMotov",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "amirroox",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "tiangolo",
+        "to": "YuriiMotov",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ceb10n",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "svlandeg",
+        "to": "indayush",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "alejsdev",
+        "to": "praffq",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "MildFlames",
+        "from": "svlandeg",
+        "to": "abhishekbiswas772",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Burkino",
+        "from": "tiangolo",
+        "to": "ceb10n",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Burkino",
+        "from": "tiangolo",
+        "to": "robertoberto",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Burkino",
+        "from": "YuriiMotov",
+        "to": "ZadenYip",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Rrett",
+        "from": "tiangolo",
+        "to": "JP-Ellis",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "KyokoTomato",
+        "from": "YuriiMotov",
+        "to": "nilslindemann",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "Burkino",
+        "from": "YuriiMotov",
+        "to": "nilslindemann",
         "type": "fechamento_de_issue"
       },
       {
-        "from": "TeamDman",
-        "to": "bypgomes",
+        "from": "tiangolo",
+        "to": "svlandeg",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "YuriiMotov",
+        "to": "sushilk123",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "svlandeg",
+        "to": "pre-commit-ci[bot]",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "tiangolo",
+        "to": "Kludex",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "tiangolo",
+        "to": "svlandeg",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "svlandeg",
+        "to": "pre-commit-ci[bot]",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "svlandeg",
+        "to": "Abdulnaser97",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "tiangolo",
+        "to": "YuriiMotov",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "YuriiMotov",
+        "to": "itssimon",
+        "type": "fechamento_de_issue"
+      },
+      {
+        "from": "alejsdev",
+        "to": "tiangolo",
         "type": "fechamento_de_issue"
       }
     ],
     "comentario_pull_request": [
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "svlandeg",
+        "to": "YuriiMotov",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "KrzysztofCzapla",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "KrzysztofCzapla",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "b14cknc0d3",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "savannahostrowski",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "eltoder",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "eltoder",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "eltoder",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "svlandeg",
+        "to": "hemanth-thirthahalli",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "tImIhAcK",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "JavierSanchezCastro",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "JavierSanchezCastro",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "JavierSanchezCastro",
         "type": "comentario em pull request"
       },
       {
         "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
-        "type": "comentario em pull request"
-      },
-      {
-        "weight": 2,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "bokshitsky",
         "type": "comentario em pull request"
       }
     ],
     "revisoes_pull_request": [
       {
         "weight": 4,
-        "from": "TeamDman",
-        "to": "PrincessStelllar",
+        "from": "svlandeg",
+        "to": "nilslindemann",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "svlandeg",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "svlandeg",
+        "to": "YuriiMotov",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "adamobrien-dev",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "svlandeg",
+        "to": "YuriiMotov",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "clement-zentz",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "sauravvenkat",
         "type": "revisao de pull request"
       },
       {
         "weight": 4,
-        "from": "TeamDman",
-        "to": "kevinrpb",
+        "from": "YuriiMotov",
+        "to": "KrzysztofCzapla",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "KrzysztofCzapla",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "ChaitanyaSai-Meka",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "wu-clan",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "b14cknc0d3",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "Raghu0703",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "savannahostrowski",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "ivikasavnish",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "luzzodev",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "tiangolo",
+        "to": "luzzodev",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "eltoder",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "hemanth-thirthahalli",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "dolfinus",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "pre-commit-ci[bot]",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "sneakers-the-rat",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "musicinmybrain",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "tImIhAcK",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "tImIhAcK",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "tiangolo",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "clytaemnestra",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "JavierSanchezCastro",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "JavierSanchezCastro",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "JavierSanchezCastro",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "tiangolo",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "ivikasavnish",
+        "to": "mahdighadiriii",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "Priyanshjain10",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "steelefit",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "KarelRuzicka",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "tiangolo",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "arun-geek",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "bokshitsky",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "YuriiMotov",
+        "to": "bokshitsky",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "wu-clan",
+        "to": "bokshitsky",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "alejsdev",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "Kludex",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "tiangolo",
+        "to": "YuriiMotov",
+        "type": "revisao de pull request"
+      },
+      {
+        "weight": 4,
+        "from": "svlandeg",
+        "to": "indayush",
         "type": "revisao de pull request"
       }
     ],
     "merge_pull_request": [
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "ZHAY10086",
+        "from": "svlandeg",
+        "to": "nilslindemann",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "YuriiMotov",
+        "to": "nilslindemann",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "PrincessStelllar",
+        "from": "tiangolo",
+        "to": "luzzodev",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "lennyservant",
+        "from": "svlandeg",
+        "to": "pre-commit-ci[bot]",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "MHanHanBing",
+        "from": "svlandeg",
+        "to": "musicinmybrain",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "PrincessStelllar",
+        "from": "svlandeg",
+        "to": "tiangolo",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "QiChenSn",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Titop54",
+        "from": "svlandeg",
+        "to": "tiangolo",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Jmpp2909",
+        "from": "svlandeg",
+        "to": "tiangolo",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "tiangolo",
+        "to": "YuriiMotov",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "YuriiMotov",
+        "to": "clytaemnestra",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "tiangolo",
+        "to": "YuriiMotov",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "svlandeg",
+        "to": "pre-commit-ci[bot]",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Vonr",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Burkino",
+        "from": "svlandeg",
+        "to": "dependabot[bot]",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Burkino",
+        "from": "tiangolo",
+        "to": "YuriiMotov",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Burkino",
+        "from": "tiangolo",
+        "to": "YuriiMotov",
         "type": "merge_pull_request"
       },
       {
         "weight": 5,
-        "from": "TeamDman",
-        "to": "Burkino",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "Titop54",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "Titop54",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "Titop54",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "Titop54",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "kevinrpb",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "md5i",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "BlueAgent",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "BlueAgent",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "UpcraftLP",
-        "type": "merge_pull_request"
-      },
-      {
-        "weight": 5,
-        "from": "TeamDman",
-        "to": "MarcoRauscher",
+        "from": "YuriiMotov",
+        "to": "ceb10n",
         "type": "merge_pull_request"
       }
     ]

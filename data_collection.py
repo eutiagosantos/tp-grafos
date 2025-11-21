@@ -7,8 +7,8 @@ import os
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
-REPO_OWNER = "TeamDman"
-REPO_NAME = "SuperFactoryManager"
+REPO_OWNER = "fastapi"
+REPO_NAME = "fastapi"
 
 if not GITHUB_TOKEN:
     raise ValueError("Token GitHub não encontrado. Use: export GITHUB_TOKEN='seu_token_aqui'")
